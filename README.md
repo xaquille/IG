@@ -6,11 +6,21 @@ gathering with domain default target midtrans.com
 how to use :
 $python3 goMerch.py
 
-requirement :
+Library requirement :
 - json
 - requests
 - date
 - dnsdumpster
+
+API key needed :
+- api key shodan 
+```https://developer.shodan.io/api```
+- api key SecurityTrails (free for 50 request/month)
+```https://docs.securitytrails.com/reference```
+- api key censys.io
+```https://censys.io/api```
+
+
 
 output json example :
 ```
